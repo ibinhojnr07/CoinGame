@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Fiverr Projects/Coin Hunt/Content/Fastrun1.mp3</SourceFile>
+  <SourceTime>2022-07-02T17:18:32.0431609+03:00</SourceTime>
+  <DestFile>D:/Fiverr Projects/Coin Hunt/Content/bin/Windows/Data/Fastrun1.xnb</DestFile>
+  <DestTime>2022-12-08T01:48:03.200491+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T14:44:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Fiverr Projects/Coin Hunt/Content/bin/Windows/Data/Fastrun1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

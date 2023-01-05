@@ -1,0 +1,39 @@
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.csproj.AssemblyReference.cache
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.AssemblyInfoInputs.cache
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.AssemblyInfo.cs
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.csproj.CoreCompileInputs.cache
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Coin Hunt.exe
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Coin Hunt.deps.json
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Coin Hunt.runtimeconfig.json
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Coin Hunt.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Coin Hunt.pdb
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.csproj.CopyComplete
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.dll
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\refint\Coin Hunt.dll
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.pdb
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\Coin Hunt.genruntimeconfig.cache
+D:\Fiverr Projects\Coin Hunt\obj\Debug\net6.0-windows\ref\Coin Hunt.dll
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Content\Fastrun1.wma
+D:\Fiverr Projects\Coin Hunt\bin\Debug\net6.0-windows\Content\Fastrun1.xnb
